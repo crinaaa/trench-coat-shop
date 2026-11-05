@@ -96,7 +96,7 @@ The shopping basket can be exported to `basket.csv` or `basket.html`.
 
 
 ## Screenshots
-<img src="screenshots/menu.png" width="400">
-<img src="screenshots/admin.png" width="400">
-<img src="screenshots/user.png" width="400">
-<img src="screenshots/basket.png" width="400">
+<img src="screenshots/menu.png" width="550">
+<img src="screenshots/admin.png" width="550">
+<img src="screenshots/user.png" width="550">
+<img src="screenshots/basket.png" width="550">
