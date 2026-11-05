@@ -5,9 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_AUTOMOC ON)
 
 
-set(Qt6_DIR "C:/Qt/6.11.0/msvc2022_64/lib/cmake/Qt6")
-
-set(CMAKE_PREFIX_PATH "C:/Qt/6.11.0/msvc2022_64")
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
 add_executable(TrenchCoatShop
