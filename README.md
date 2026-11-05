@@ -93,3 +93,10 @@ The application uses `coats.txt` as its inventory data file. Run it with the wor
 The inventory is stored in `coats.txt`. Changes made through the administrator interface are saved to the file.
 
 The shopping basket can be exported to `basket.csv` or `basket.html`.
+
+
+## Screenshots
+<img src="screenshots/menu.png" width="400">
+<img src="screenshots/admin.png" width="400">
+<img src="screenshots/user.png" width="400">
+<img src="screenshots/basket.png" width="400">
